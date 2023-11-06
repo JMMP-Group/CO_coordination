@@ -7,10 +7,10 @@ Participants: Mike Bell, Segolene Berthou, Ana Aguiar, Matt Martin, Jonathan Tin
 ----------
 
 Agenda
-    1.  Check what outcomes we want from the meeting
-    2.  Agree responsibilities of group (see suggestions under A. below)
-    3.	Discuss how the group will go about its business (see suggestions under B. below)
-    4.	Agree what to do next (e.g. who will chair future meetings)
+    1 Check what outcomes we want from the meeting
+    2 Agree responsibilities of group (see suggestions under A. below)
+    3 Discuss how the group will go about its business (see suggestions under B. below)
+    4 Agree what to do next (e.g. who will chair future meetings)
 
 A. Roles/responsibilities of group :
    - Own a process by which demands for the system’s development can be defined (fixes for poor system performance, new science, limiting technical debt) and resource prioritisation for development agreed [I think that a tickets and committee approach can work for this]
