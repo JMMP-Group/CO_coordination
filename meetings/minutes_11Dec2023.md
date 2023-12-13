@@ -49,5 +49,5 @@ AOB:
    - 2.6 Matt to ask James to pass back to Jeff the changes he made for TEOS-10.
    - 2.7 Jon to check the issues fit with CO9 plan he has and the timescales.
    - 2.8 Ana/Matt to discuss with Jon about working meetings on CO9 integration.
-   - 2.9 Ana/Matt to organise the next meeting and to spend more of the meeting discussing requirements and progress with new model configurations (CO10).
+   - 2.9 Ana/Matt to organise the next meeting in about 3 months and to spend more of the meeting discussing requirements and progress with new model configurations (CO10).
    - 2.10 Ana/Matt to ask Chris Bunney about WWIII ticket system to see whether we can learn how to improve our monitoring/setting up issues from that system.
