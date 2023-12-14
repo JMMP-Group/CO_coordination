@@ -29,13 +29,15 @@ Progress with CO9 integration was reviewed (see issues for detailed updates):
 - Work has not started yet on the AMM7 version. Jeff noted that this is at a slightly earlier NEMO version (4.0.2) compared to AMM15. Matt mentioned the requirement for future model releases to include AMM7 and AMM15 at the same version to make integration work easier.
 - Work on the wave/ocean coupling was discussed. Issue about whether a flag specifying if cells are wet/dry can be obtained from NEMO was discussed.
 - BGC work hasn't yet started, and it was mentioned to clarify with Susan that the version of the model in CO9 is 4.0.4.
-- There was the suggestion/question about whether issues should be closed rather than marked as completed?
+- There was the suggestion/question about whether issues should be closed rather than marked as done?
 
 List of other issues:
 - There wasn't much time to review progress with the other issues.
 
 AOB:
 - The membership and purpose of the group was discussed, and it was agreed that this set of meetings should be for managers to coordinate the work and for discussing requirements for the model.
+- Mike asked if John Edwards work on W&D fall into the scope of this meeting? Segolene responded that he is doing the work over India at the moment, so she doesn't think so - but once the coupled wetting & drying works there, it'll be ported to AMM15.
+- Segolene asked if it is worth adding Lucy Bricheno, NOC on the CO9p2 wetting&drying issue? She is interested in its progress for the 500m grid.
 - A suggestion for future meetings is to spend less time on CO9 integration and focus more on discussing requirements and progress with new/future model configurations.
 - For CO9 integration work, perhaps a set of working meetings should be organised, to be discussed with Jon Tinker.
 
