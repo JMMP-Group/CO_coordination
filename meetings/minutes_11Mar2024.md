@@ -1,6 +1,6 @@
 # Coastal Ocean coordination meeting minutes
 
-11th March 2023.
+11th March 2024.
 
 Participants: Mike Bell, Ana Aguiar, Matt Martin, Richard Renshaw, Jeff Polton, Andy Saulter, Breo Gomez, Susan Kay
 
@@ -56,7 +56,7 @@ Jeff suggested including Ryan Patmore in these discussions so he could also prov
 
 - [River inputs](https://github.com/JMMP-Group/CO_coordination/issues/4): Ana mentioned that Segolene's team plans to develop a river product from the operational forecast (probably a mix of global (Europe) and regional (UK) for OOFS; For developing/testing the configuration, reanalysis products are available and Sarah Wakelin has done work to assess these, [ESSD - GloFAS-ERA5 operational global river discharge reanalysis 1979-present](https://essd.copernicus.org/articles/12/2043/2020/) dataset is good for Europe but JRA's river discharge is better for the Global ocean. CO10 development tests will be forced by ERA5 and run with associated GloFAS.
 - [Baltic LBCs (Copernicus)](https://github.com/JMMP-Group/CO_coordination/issues/3): Jeff mentioned that CO9 includes an option to apply a pre-defined offset to the Baltic LBCs to account for differences in Atlantic and Baltic LBC SSH values. Richard Renshaw said that for reanalysis they tuned this value, and that new versions of Baltic reanalysis resulted in the need to change the value.
-there is a difference in SSH between the Baltic and the Atlantic boundary Matt to check with James what version of Baltic LBCs and settings are in use.
+There is a difference in SSH between the Baltic and the Atlantic boundary Matt to check with James what version of Baltic LBCs and settings are in use.
 
 ----------
 
