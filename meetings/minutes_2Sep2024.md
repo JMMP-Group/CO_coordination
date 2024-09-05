@@ -10,13 +10,13 @@ Apologies: Segolene Berthou, Mike Bell.
 
 ## Agenda :
 1.	Review actions from previous meeting (on 3rd June 2024).
-1.	Review the list of other more general issues
+2.	Review the list of other more general issues
    - Requirements and progress with future model configurations.
    - CO10 requirements and progress.
    - Review near-bed temperature biases.
-1.	Gen2 benchmarks: what version(s) of NEMO will CO configurations use in late 2027?
-1.	CO manager vacancy
-1.	AOB
+3.	Gen2 benchmarks: what version(s) of NEMO will CO configurations use in late 2027?
+4.	CO manager vacancy
+5.	AOB
    - JMMP workshop online 7-11 Oct 2024
    - Next meeting to take place on the 9th Dec 2024
 
