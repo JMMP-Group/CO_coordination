@@ -9,8 +9,9 @@ Apologies: Segolene Berthou, Mike Bell.
 ----------
 
 ## Agenda :
-1.	Review actions from previous meeting, minutes_3Jun2024.
-1.	Review the list of other more general issues: requirements and progress with future model configurations.
+1.	Review actions from previous meeting (on 2rd June 2024).
+1.	Review the list of other more general issues:
+   - Requirements and progress with future model configurations.
    - CO10 requirements and progress.
    - Review near-bed temperature biases.
 1.	Gen2 benchmarks: what version(s) of NEMO will CO configurations use in late 2027?
@@ -37,7 +38,7 @@ Apologies: Segolene Berthou, Mike Bell.
 
 - 4.1 Segolene: Ask Juan if we still need to check whether NEMO can provide an output field with flags about whether a cell is wet/dry. (follows from previous Action 2.3)
    - Ana had talked to Juan and Segolene but didn't have an update on this action so carry the action forward.
-   - Ana mentioned an issue raised by Juan about he wave coupling.
+   - Ana mentioned an issue raised by Juan about the wave coupling.
    - There was a discussion between Andy and Jeff about behaviour of wave model in very shallow waters, i.e.  in the wetting-and-drying cells.
    - Jon mentioned that Mike and Juan have discussed this and some more tests are now being run.
    - Jeff said he would benefit from more information about the issue so he could better contribute to the discussion.
@@ -65,9 +66,9 @@ Apologies: Segolene Berthou, Mike Bell.
 ## Gen2 benchmarks: what version(s) of NEMO will CO configurations use in late 2027?:
 
 - NEMOv5 will be used for global benchmarks. CO won't be used for benchmarks.
-- CO9 is v4.0.4 and CO10 at v4.2 is being used in projects now with preliminary testing of tides being done in v5.
-- Jeff will think about possible motivations to excite activity of jumping to v5 in CO10.
-- Matt said from a DA perspective that we don't want to develop versions at v4.2 and v5 (e.g. for global and shelf).
+- CO9 is NEMOv4.0.4 and CO10 at NEMOv4.2 is being used in projects now with preliminary testing of tides being done in NEMOv5.
+- Jeff will think about possible motivations to excite activity of jumping to NEMOv5 in CO10.
+- Matt said from a DA perspective that we don't want to develop versions at NEMOv4.2 and NEMOv5 (e.g. for shelf and global).
 
 ## CO configuration manager:
 
@@ -76,9 +77,9 @@ Apologies: Segolene Berthou, Mike Bell.
 
 ## Open and new actions:
 
-3.8. All: Add labels (can generate new ones) to issues, to facilitate grouping related issues through use of filter.
-4.1 Segolene: Ask Juan if we still need to check whether NEMO can provide an output field with flags about whether a cell is wet/dry.
-4.2 Matt: Send James's doc on dealing with LBCs to Jeff and, if necessary, arrange a meeting with James, Jon, Jeff and others from NOC (Ryan Patmore/Sarah Wakelin) so that James presents what he has done with the Atlantic and Baltic SSH BCs and the MDT.
-5.1. Jeff to forward information about the CO9-AMM7 configuration to Matt, Jon and others so it could be bought into Met Office systems with DA.
-5.2. Ana/Segolene to raise an issue in the issue log on the wetting/drying behaviour of the waves.
-5.3. Jon to organise seminar (or smaller meeting(s) if preferred) to describe the issue, results and discuss with Met Office and NOC people.
+- 3.8. All: Add labels (can generate new ones) to issues, to facilitate grouping related issues through use of filter.
+- 4.1 Segolene: Ask Juan if we still need to check whether NEMO can provide an output field with flags about whether a cell is wet/dry.
+- 4.2 Matt: Send James's doc on dealing with LBCs to Jeff and, if necessary, arrange a meeting with James, Jon, Jeff and others from NOC (Ryan Patmore/Sarah Wakelin) so that James presents what he has done with the Atlantic and Baltic SSH BCs and the MDT.
+- 5.1. Jeff to forward information about the CO9-AMM7 configuration to Matt, Jon and others so it could be bought into Met Office systems with DA.
+- 5.2. Ana/Segolene to raise an issue in the issue log on the wetting/drying behaviour of the waves.
+- 5.3. Jon to organise seminar (or smaller meeting(s) if preferred) to describe the issue, results and discuss with Met Office and NOC people.
