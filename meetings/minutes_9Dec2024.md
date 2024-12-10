@@ -42,7 +42,7 @@ Apologies: Andy Saulter, Jonathan Tinker, Richard Renshaw.
    - New Action: Ana/Segolene to talk to Jon Tinker and draft a work plan to address this issue, bringing together limited resources from different teams. Under guidance, Oliver may be able to help with runs coupled mode as a way to learn about the code. People in Jon Tinker's team should be able to help and this may be relevant to Copernicus. Julia (NOC) may be able to offer some support too.
 - 5.3. Jon to organise seminar (or smaller meeting(s) if preferred) to describe the issue, results and discuss with Met Office and NOC people.
    - Jon gave an OIT where he presented some of this work but we would like to have a summary here before deciding to close this action.
-   - _Carry forward._
+   - Close this action, but open new action: Jon to update this group on the current status of the bottom temperature issue.
 
 ## CO10 development updates:
 
@@ -50,7 +50,7 @@ Apologies: Andy Saulter, Jonathan Tinker, Richard Renshaw.
 
 ## Gen2 benchmarks: what version(s) of NEMO will CO configurations use in late 2027?:
 
-- This may motivate the upgrade of CO10 to NEMov5, depending on whether there's need to accelerate the turnaround time of the CO configuration
+- This may motivate the upgrade of CO10 to NEMOv5, depending on whether there's a need to accelerate the turnaround time of the CO configuration
 - Susan asked if it's possible to run BGC with a different time-step and if there are restrictions on MLF or RK3
 
 ## CO configuration manager:
@@ -59,11 +59,17 @@ Ana to ask Jonathan Tinker to invite Oliver to CO9 dev meetings.
 
 ## AOB
 
+Ana mentioned the NEMO hackathon which will be held at the Met Office in June 2025 which Catherine Guiavarc'h is helping to organise. She encouraged people working on CO aspects to attend.
+
 Susan asked for clarification/recommendations about the equation of state (EOS-80 or TEOS-10) to use in AMM15 and AMM7.
+Matt and Jeff agreed that CO9 uses TEOS-10. Some experiments using the same system were run with EOS-80 at NOC due to different boundary conditions being available, but the version to be used at the Met Office is with TEOS-10.
+New action: Matt and Jeff to clarify in any CO9 documentation and Github issues that TEOS-10 will be used. 
+There will be work next FY to implement CO9-AMM7 in the Met Office rose suites, including the DA and the BGC.
 
 
-## New actions:
+## Open and new actions:
 
-6.1 Talk to Jon Tinker to draft a work plan to address this issue. Oliver to try to help with this in coupled mode as a way to learn how to run experiments. Julia (NOC) could also offer some support.
-6.2 Ana to check if, at NEMOv5, BGC can run with a different time-step (from physics) and if there are any restrictions on time-stepping scheme: MLF or RK3?
-6.3 Matt and Jeff to check the documentation for the equation of state in CO9. CO9 uses TEOS-10. Jeff: confusion may arise because in some trials (depending on BCs) EOS-80 was used. Matt to check that the issue around the equation of state can be closed. CO9-AMM7 implementation will be organised at some point next FY.
+- 6.1. Jon to update this group on the current status of the bottom temperature issue.
+- 6.2 Ana, Segolene and Jon to propose a way forward to address the issue with the waves and wetting-and-drying now that Juan has less time to devote to it. Oliver to try to help with this in coupled mode as a way to learn how to run experiments. Julia (NOC) could also offer some support.
+- 6.3 Ana to check if, at NEMOv5, BGC can run with a different time-step (from physics) and if there are any restrictions on time-stepping scheme: MLF or RK3.
+- 6.4 Matt and Jeff to clarify in any CO9 documentation and Github issues that TEOS-10 will be used.
