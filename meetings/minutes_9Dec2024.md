@@ -59,7 +59,7 @@ Ana to ask Jonathan Tinker to invite Oliver to CO9 dev meetings.
 
 ## AOB
 
-Ana mentioned the NEMO hackathon which will be held at the Met Office in June 2025 which Catherine Guiavarc'h is helping to organise. She encouraged people working on CO aspects to attend.
+Ana mentioned the NEMO hackathon which will be held at the Met Office in June 2025 which will be led by Jeff Polton and Katherine Hutchinson is helping to organise. She encouraged people working on CO aspects to attend.
 
 Susan asked for clarification/recommendations about the equation of state (EOS-80 or TEOS-10) to use in AMM15 and AMM7.
 Matt and Jeff agreed that CO9 uses TEOS-10. Some experiments using the same system were run with EOS-80 at NOC due to different boundary conditions being available, but the version to be used at the Met Office is with TEOS-10.
