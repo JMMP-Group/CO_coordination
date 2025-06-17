@@ -22,9 +22,9 @@ Jonathan Tinker, Susan Kay
 
 ## Actions from previous meeting
 
-   7.1. Kit spoke to Juan and the WWIII version and grid in the CO9 setup are in line with what is expected. Closed.
-   7.2. Susan asked PML about using BGC with the time-stepping in NEMO5 but no work is going on about that at the moment. This will be raised at the upcoming NEMO system team meeting. Carry forward.
-   7.3. Jon prepared a presentation on the PS48 results. Closed.
+   - 7.1. Kit spoke to Juan and the WWIII version and grid in the CO9 setup are in line with what is expected. Closed.
+   - 7.2. Susan asked PML about using BGC with the time-stepping in NEMO5 but no work is going on about that at the moment. This will be raised at the upcoming NEMO system team meeting. Carry forward.
+   - 7.3. Jon prepared a presentation on the PS48 results. Closed.
 
 ## Short presentation on PS48 results (Jon Tinker)
 
@@ -63,7 +63,6 @@ This work is being done in the AMM15 ocean configuration.
 ## AOB
 None.
 
-## New actions:
+## New/open actions:
 
-7.2 Ana and Susan to find out answer/who can answer question regarding time-step for BGC.
-8.1
+7.2 Ana and Susan to find out about the use of the new NEMO5 time-stepping for BGC.
