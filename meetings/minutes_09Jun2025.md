@@ -11,7 +11,7 @@ Jonathan Tinker, Susan Kay
 ## Agenda :
 
 1. Review actions from previous meeting, 10Mar2025
-2. Short presentation on PS48 results (Jon Tinker)
+2. Short presentation on PS47 results (Jon Tinker)
 3. General issues
 4. Summary on CO10 requirements and progress
 5. Summary on new amm7 for UKCI requirements (Richard Renshaw)
@@ -24,9 +24,9 @@ Jonathan Tinker, Susan Kay
 
    - 7.1. Kit spoke to Juan and the WWIII version and grid in the CO9 setup are in line with what is expected. Closed.
    - 7.2. Susan asked PML about using BGC with the time-stepping in NEMO5 but no work is going on about that at the moment. This will be raised at the upcoming NEMO system team meeting. Carry forward.
-   - 7.3. Jon prepared a presentation on the PS48 results. Closed.
+   - 7.3. Jon prepared a presentation on the PS47 results. Closed.
 
-## Short presentation on PS48 results (Jon Tinker)
+## Short presentation on PS47 results (Jon Tinker)
 
 Jon gave a presentation on AMM15/7 PS47 trials results.
    - Changes include the use of Met Office lateral and surface boundaries (instead of Mercator Ocean and ECMWF ones),
@@ -39,6 +39,7 @@ as well as the inclusion of altimeter assimilation on the shelf.
 Ana mentioned two issues:
    - Porting of the shelf system onto the new Met Office HPC has been completed - no significant difference with the version on the old HPC.
    - It would be helpful to have a clear record of where the ancillary files come from, especially for the AMM7 bathymetry.
+   - Jeff shared existing doc on how the amm7 domain config was built, https://github.com/JMMP-Group/CO_AMM7/releases/tag/CO9_AMM7p0 
 
 ## CO10 requirements
 
@@ -52,7 +53,7 @@ in those projections at a lower resolution than AMM15.
    - Jeff said that it would be important to call such a configuration something different to AMM7 which was an existing configuration name.
    - Jeff also mentioned the possibility to use (a cut out of) the North Atlantic, Baltic and Arctiv domain (NAARC) that NOC have developed which is at 1/12 degree resolution. This full domain would be too expensive, but a cut out of it is a possibiility.
    - Segolene asked if the Skagerak region was well represented in that model, but that specific region hadn't been assessed in detail yet.
-   - Jeff said that another possibility could be to cut out part of the global 1/36 or 1/12 ORCA gridsand add in the required processes, e.g. terrain following coordinates.
+   - Jeff said that another possibility could be to cut out part of the global 1/36 or 1/12 ORCA grids and add in the required processes, e.g. terrain following coordinates.
 
 ## Wind farms parameterisation in NEMO
 
@@ -66,3 +67,6 @@ None.
 ## New/open actions:
 
 7.2 Ana and Susan to find out about the use of the new NEMO5 time-stepping for BGC.
+[Update 18/06/2025, AA]: Renauld Person confirmed that the BGC and NEMO can run with different time-steps and he has successfully run experiments at NEMOv5 with RK3, using different time-steps for NEMO and PISCES.
+
+8.2 Richard and Segolene to contact Jeff for advice on how to use NAARC (take a cut out) to generate a bespoke config for UKCI.
