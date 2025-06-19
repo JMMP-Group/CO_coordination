@@ -69,4 +69,4 @@ None.
 7.2 Ana and Susan to find out about the use of the new NEMO5 time-stepping for BGC.
 [Update 18/06/2025, AA]: Renauld Person confirmed that the BGC and NEMO can run with different time-steps and he has successfully run experiments at NEMOv5 with RK3, using different time-steps for NEMO and PISCES.
 
-8.2 Richard and Segolene to contact Jeff for advice on how to use NAARC (take a cut out) to generate a bespoke config for UKCI.
+8.1 Richard and Segolene to contact Jeff for advice on how to use NAARC (take a cut out) to generate a bespoke config for UKCI.
