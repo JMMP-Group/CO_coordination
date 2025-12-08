@@ -2,7 +2,7 @@
 
 8th December 2025
 
-Participants: Ana Aguiar, Matt Martin, Jeff Polton, Richard Renshaw, Jonathan Tinker, Kit Stokes, Segolene Berthou, Oliver :ambert-Brown
+Participants: Ana Aguiar, Matt Martin, Jeff Polton, Richard Renshaw, Jonathan Tinker, Kit Stokes, Segolene Berthou, Oliver Lambert-Brown
 
 Apologies: Andy Saulter, Susan Kay.
 
@@ -11,7 +11,7 @@ Apologies: Andy Saulter, Susan Kay.
 ## Agenda :
 1.	Review actions from previous meeting (on 15th September 2025).
 2.	Discuss licensing of model ancillary files.
-5.	AOB
+3.	AOB
    - Review of NOC/Met Office collaboration.
 
 ----------
