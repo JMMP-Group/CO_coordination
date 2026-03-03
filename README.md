@@ -23,4 +23,4 @@ The group will:
 
 Current members of the group consist of the managers of the various groups responsible for model and data assimilation development, integration with waves and BGC, and implementation in forecasting and reanalysis systems:
    - Co-chairs: Ana Aguiar and Matt Martin
-   - Members: Segolene Berthou, Susan Kay, Jonathan Tinker, Richard Renshaw, Jeff Polton, Hedong Liu, Breo Gomez, Andy Saulter, Mike Bell.
+   - Members: Segolene Berthou, Susan Kay, Jonathan Tinker, Richard Renshaw, Jeff Polton, Andy Saulter, Mike Bell, Oliver Lambert-Brown, Christopher Stokes.
