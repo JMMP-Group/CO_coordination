@@ -42,7 +42,7 @@ OLB: FOAM R&D with or without DA (free run) runs without further instability whe
 
 AS: Decision wrt stability of the model (CO9p2 as is for PS48) must be made by the end of Mar 2026, not acceptable to trigger instabilities more than 1-2 per year.
 
-## Oliver presented plans for UKMO/CO (see slide attached)
+## Oliver presented plans for UKMO/CO (see [slide](https://github.com/JMMP-Group/CO_coordination/blob/main/meetings/slides/CO%20repository%20proposition.pptx))
 
 Developers can fork from the main and should keep their fork up to date with bug fixes and developments from the main.
 
