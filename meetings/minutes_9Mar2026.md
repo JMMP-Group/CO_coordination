@@ -1,6 +1,6 @@
 # Coastal Ocean coordination meeting minutes
 
-9th January 2026
+9th March 2026
 
 Participants: Ana Aguiar, Matt Martin, Jeff Polton, Jonathan Tinker, Segolene Berthou, Oliver Lambert-Brown, Susan Kay, Richard Renshaw, Andy Saulter
 
