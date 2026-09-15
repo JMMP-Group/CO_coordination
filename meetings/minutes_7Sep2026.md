@@ -211,8 +211,8 @@ Further discussions will continue outside the coordination meeting and may feed 
 
 | Actions from 6th of Jun 2026 | Owner |
 |----------|--------|
-| Obtain clarification from Andy Clark on whether licensing and attribution for new ancillary files should be included as metadata or separate files, and communicate the outcome. | Ana |
-| Follow up with Ben Fitzpatrick regarding software licensing for shared workflows and update the group when guidance is available. | Ana |
+| Obtain clarification from Andy Clark on whether licensing and attribution for new ancillary files should be included as metadata or separate files, and communicate the outcome. - _Andy C will review this late Sep 2026._ | Ana |
+| Follow up with Ben Fitzpatrick regarding software licensing for shared workflows and update the group when guidance is available. - _Waiting for a decision._ | Ana |
 | Finalise and communicate the chosen name for the extended AMM7 configuration (**EAMM7**), ensuring consistency across files and documentation. | Richard Renshaw |
 | Complete and submit the final project proposal and business case for the Environment Agency water-level forecasting improvements, including contract management and costing details. | Kit |
 | Review whether satellite observations (e.g. SWOT, Sentinel-3) should be reintroduced into the long-term plans for the Environment Agency project and considered for Phase 2 developments. | Kit |
@@ -226,11 +226,4 @@ Further discussions will continue outside the coordination meeting and may feed 
 ## Strategic Actions
 
 - Develop future regional ocean-modelling requirements.
-- Continue assessing AGRIF feasibility and scientific value.
 - Explore opportunities for future funding proposals.
-
----
-
-## Overall Assessment
-
-The meeting reflected positive progress across operational development and research activities. Recent concerns regarding assimilation and coupling were successfully resolved, AMM15 delivery remains on track, and attention is increasingly shifting toward longer-term strategic developments including nested modelling, ensemble prediction, NEMO 5 adoption, and future regional ocean forecasting capability.
