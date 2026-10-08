@@ -9,7 +9,7 @@ Apologies: Susan Kay, Andy Saulter.
 ----
 ## Agenda
 
-- Review actions from previous meeting 8th of Jun: we missed this at the meeting but the table of Actions will be updated.
+- Review actions from previous meeting 8th of Jun: we missed this at the meeting but the table of Actions below has been updated.
 - Update on PS48 (CO9p2) trials/issues (Jon Tinker, James While)
 - AOB
 
@@ -213,9 +213,9 @@ Further discussions will continue outside the coordination meeting and may feed 
 |----------|--------|
 | Obtain clarification from Andy Clark on whether licensing and attribution for new ancillary files should be included as metadata or separate files, and communicate the outcome. - _Andy C will review this late Sep 2026._ | Ana |
 | Follow up with Ben Fitzpatrick regarding software licensing for shared workflows and update the group when guidance is available. - _Waiting for a decision._ | Ana |
-| Finalise and communicate the chosen name for the extended AMM7 configuration (**EAMM7**), ensuring consistency across files and documentation. | Richard Renshaw |
-| Complete and submit the final project proposal and business case for the Environment Agency water-level forecasting improvements, including contract management and costing details. | Kit |
-| Review whether satellite observations (e.g. SWOT, Sentinel-3) should be reintroduced into the long-term plans for the Environment Agency project and considered for Phase 2 developments. | Kit |
+| Finalise and communicate the chosen name for the extended AMM7 configuration (**EAMM7**), ensuring consistency across files and documentation. _New configuration will be documented in a publication. New ancillary files stored in "shelfseas" account._ _Closed_| Richard Renshaw |
+| Complete and submit the final project proposal and business case for the Environment Agency water-level forecasting improvements, including contract management and costing details. _Closed_ | Kit |
+| Review whether satellite observations (e.g. SWOT, Sentinel-3) should be reintroduced into the long-term plans for the Environment Agency project and considered for Phase 2 developments. _Satellite DA is out of scope for the EA FFIDP project but exploration of satellite data for coastal water level verification is in scope of the project and will explored by NOC._ _Closed_| Kit |
 
 ## Medium Priority
 
